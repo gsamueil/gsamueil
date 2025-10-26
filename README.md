@@ -38,7 +38,7 @@ Here are a few of my featured repositories:
 - LinkedIn: [George Samul](https://www.linkedin.com/in/george-samueil/)  
 - Instagram: [@]()  
 - YouTube: [@George Samuel](https://www.youtube.com/@innovisionRay)  
-- Resume: [FlowCV]([(https://flowcv.com/resume/855895fafsrs)])
+- Resume: [FlowCV](https://flowcv.com/resume/855895fafsrs)
 
 ---
 
